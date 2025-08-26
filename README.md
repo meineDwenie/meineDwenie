@@ -4,6 +4,7 @@
 <p align="center">
   <em>Junior Frontend Developer & UI/UX Enthusiast · Murcia, Spain</em>
   <br>
+  <br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
