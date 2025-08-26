@@ -33,10 +33,15 @@ I love taking ideas from sketch to pixel-perfect interface, solving real-world p
 
 ### 📱 Favorite Project
 
-Check out the E-commerce app I collaborated with my pals!  
-<a href="[https://meinedwenie.github.io/portfolio/](https://tradie-c6exdkcfced4hegj.spaincentral-01.azurewebsites.net/)" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-%235FA8D3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Tradie Link">
-</a>
+Check out **Tradie**, an e-commerce shop website I built with friends!  
+
+<p align="center">
+  <a href="https://tradie-c6exdkcfced4hegj.spaincentral-01.azurewebsites.net/" target="_blank">
+    <img src="https://your-image-host.com/tradie-logo.png" alt="Tradie Logo" width="120"/>
+    <br>
+    <img src="https://img.shields.io/badge/Tradie-Live%20Demo-5FA8D3?style=for-the-badge&logo=shopify&logoColor=white" alt="Tradie Live Demo">
+  </a>
+</p>
 
 ---
 
