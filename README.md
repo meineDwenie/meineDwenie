@@ -66,4 +66,3 @@ Check out my personal portfolio!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FA8D3,100:9ADCFF&height=90&section=footer"/>
 </div>
--->
