@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <!-- Hi there, I'm Edwin Nuñez (meineDwenie) 👋 -->
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm Edwin | <span style="color:#5FA8D3;">meineDwenie</span></h1>
